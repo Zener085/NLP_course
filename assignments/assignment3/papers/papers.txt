@@ -1,0 +1,10 @@
+Nested NER
+https://arxiv.org/pdf/1909.02250v3.pdf
+
+ERNIE
+https://huggingface.co/docs/transformers/en/model_doc/ernie https://huggingface.co/docs/transformers/en/model_doc/ernie_m
+
+spacy ner
+
+prompts to ask to print
+create by own
